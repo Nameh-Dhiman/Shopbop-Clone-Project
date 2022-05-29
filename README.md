@@ -6,7 +6,7 @@ Goal behind the project was to create a clone of the ShopBop website as close as
 This project was built by a team of 6 developers in 5 Days. 
 </p>
 
-* [Click Here](https://shopbop-clone-project.netlify.app "Shopbop Project") to to view the deployed website.
+* [Click Here](https://shopbop-clone-project.netlify.app "Shopbop Project") to view the deployed website.
 
 <p>
 Shopbop is a US online fashion apparel and accessories shop opened in 1999. It has been a subsidiary of Amazon.com since 2006.
