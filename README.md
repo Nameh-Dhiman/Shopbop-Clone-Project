@@ -12,14 +12,14 @@ This project was built by a team of 6 developers in 5 Days.
 Shopbop is a US online fashion apparel and accessories shop opened in 1999. It has been a subsidiary of Amazon.com since 2006.
 </p>
 
-###Credits
+### Credits
 ___
 * Images: [Shopbop.com](https://www.shopbop.com/)
 * Content & Data: [Shopbop.com](https://www.shopbop.com/)
 * Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
 * References: [MDN Docs](https://developer.mozilla.org/en-US/ ) | [React JS Docs](https://reactjs.org/docs/getting-started.html)| [Redux JS Docs](https://redux.js.org/introduction/getting-started)
 
-###Tech Stack
+### Tech Stack
 ___
 
 * HTML 5
