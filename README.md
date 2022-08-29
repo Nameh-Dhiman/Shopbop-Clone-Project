@@ -25,6 +25,11 @@ ___
 * HTML 5
 * CSS 3
 * JavaScript
+* React JS
+* Redux JS
+* React Slick
+* React Router
+
 * Git
 
 ### Features
